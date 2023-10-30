@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    text-align: center;
+
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background: 0cap;
+}
+
+.margin{
+    width: auto;
+    height: auto;
+    background-color: rgb(139, 44, 44);
+    line-height: normal;
+    font-weight: 100;
+    margin-left: 50px;
+}
+.padding {
+    width: auto;
+    height: auto;
+    background-color: rgb(235, 182, 8);
+    line-height: normal;
+    font-weight: 100;
+    padding-left: 100%;
+}
